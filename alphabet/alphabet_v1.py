@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
 """
-    alphabet.py - November 2022
-    Looks up and returns ASCII art "fonts" from text files.
+    alphabet_v1.py November 2022
     R. Proctor | ron@proctorcreative.com
+
+    Looks up and returns ASCII art "fonts" from text files.
 """
 
 # list of allowed letters

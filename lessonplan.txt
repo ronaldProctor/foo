@@ -1,0 +1,25 @@
+#
+#  Python Basics 36: Read from Files
+#
+#  Ron Proctor, M.Ed.
+#  ron@proctorcreative.com
+#
+#  For presentation to Alta3 Research
+#  21 Nov 2022
+#
+
+    0. Welcome and Introduction
+
+      + Thank you for helping our classroom community be:
+        Safe, United, Professional, Engaged, Respectful, and Responsible
+
+    1. Opening and closing files with open() and close().
+
+    2. Use strip() to remove extra whitespace.
+
+    3. Handling files with with().
+
+    4. Challenge Project: 3D Font ASCII Art
+
+
+###
