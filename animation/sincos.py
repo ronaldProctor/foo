@@ -29,10 +29,10 @@ def main():
             if y == j and y == y1:
                 print(crayons.yellow("+"), end="")    # draw marks
             
-            elif y == j:
-                print(crayons.red("+"), end="")    # draw marks
+            elif y >= j:
+                    print(crayons.red("+"), end="")    # draw marks
 
-            elif y1 == j:
+            elif y1 <= j:
                 print(crayons.blue("+"), end="")       # draw marks
 
             else:

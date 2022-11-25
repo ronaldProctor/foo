@@ -1,0 +1,96 @@
+
+    OO
+   OOOO
+    OO
+
+
+
+
+
+__________
+BallTest 0
+R.Proctor
+
+
+
+   
+    OO 
+   OOOO
+    OO
+
+
+__________
+BallTest 1
+R.Proctor
+
+
+
+
+
+
+
+    OO
+    OO
+___OOOO___
+BallTest 2
+R.Proctor
+
+
+
+
+
+
+
+
+    OO
+__OOOOOO__
+BallTest 3
+R.Proctor
+
+
+
+
+
+
+
+    OO
+    OO
+___OOOO___
+BallTest 4
+R.Proctor
+
+
+
+    OO
+    OO
+    OO
+    OO
+
+
+__________
+BallTest 5
+R.Proctor
+
+    OO
+   OOOO
+    OO
+  
+
+
+
+   
+__________
+BallTest 6
+R.Proctor
+    OO
+   OOOO
+    OO
+
+
+
+
+
+
+__________
+BallTest 7
+R.Proctor
