@@ -21,7 +21,7 @@ os.system("pwd")
 print("Command: git add *")
 os.system("git add *")
 
-commandstring = "git commit -m " + comment
+commandstring = "git commit -m \"" + comment + "\""
 print(commandstring)
 os.system(commandstring)
 
