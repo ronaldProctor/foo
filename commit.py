@@ -22,7 +22,7 @@ print("Command: git add *")
 os.system("git add *")
 
 commandstring = "git commit -m \"" + comment + "\""
-print(commandstring)
+print("Command:", commandstring)
 os.system(commandstring)
 
 print("Command: git push origin HEAD")
