@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python3
 """Proctor Creative LLC | ron@proctorcreative.com
     Automagic git commit and push."""
 
